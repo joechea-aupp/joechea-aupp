@@ -12,4 +12,4 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joechea-aupp)](https://github.com/joechea-aupp/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joechea-aupp&hide=stars,issues)](https://github.com/joechea-aupp/github-readme-stats)
