@@ -1,4 +1,4 @@
-<p align='center'>
+<p align="center">
 <!--   [![trophy](https://github-profile-trophy.vercel.app/?username=joechea-aupp&theme=onedark&title=Commit,PullRequest)](https://github.com/joechea-aupp/github-profile-trophy) -->
   <img src="https://github-profile-trophy.vercel.app/?username=joechea-aupp&theme=onedark&title=Commit,PullRequest" width="100%" />
 </p>
