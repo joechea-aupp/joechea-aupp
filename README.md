@@ -1,5 +1,7 @@
 ![](header.png)
 
+![](https://komarev.com/ghpvc/?username=joechea-aupp)
+
 🚀 A passionate developer exploring the realms of code and technology. I'm on a journey to build innovative solutions and create meaningful experiences through software. My interests lie in sovling mistery, and I'm always excited to learn and explore new technologies.
 
 💻 My code playground includes languages like Python, JS and PHP and frameworks like Laravel. I believe in the power of open-source and love collaborating on projects that make a positive impact.
