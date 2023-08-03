@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=joechea-aupp&theme=onedark&title=Commit,PullRequest" width="60%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=joechea-aupp&theme=onedark&title=Commit,PullRequest,Repositories" width="60%" />
   </p>
 
   <p>
