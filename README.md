@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="150" src="https://media.giphy.com/media/AtdbIUyb78rKwvCMQu/giphy.gif">
 
-🚀 A passionate developer exploring the realms of code and technology. I'm on a journey to build innovative solutions and create meaningful experiences through software. My interests lie in sovling mistery, and I'm always excited to learn and explore new technologies.
+🚀 A *passionate developer* exploring the realms of code and technology. I'm on a journey to build innovative solutions and create meaningful experiences through software. My interests lie in `sovling mistery`, and I'm always excited to learn and explore new technologies.
 
 💻 My code playground includes languages like Python, JS and PHP and frameworks like Laravel. I believe in the power of open-source and love collaborating on projects that make a positive impact.
 
@@ -18,7 +18,25 @@
 
 📫 Let's connect and collaborate! Feel free to reach out for discussions, project ideas, or just to say hi. Happy coding! 🎉
 
+<br>
 
+## 🛠 &nbsp;Tech Stack and Analytic
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=joechea-aupp&theme=blue-green&exclude_days=Sun%2CSat" width="80%" />
 
