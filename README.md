@@ -6,7 +6,7 @@
 
     
   <p>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=joechea-aupp&theme=onedark&exclude_days=Sun%2CSat" width="70%" />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=joechea-aupp&theme=onedark&exclude_days=Sun%2CSat" width="80%" />
     </p>
   </div>
 </div>
