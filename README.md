@@ -1,4 +1,6 @@
-👋 Hello there! I'm Joe, a passionate developer exploring the realms of code and technology.
+![](header.png)
+
+a passionate developer exploring the realms of code and technology.
 
 🚀 I'm on a journey to build innovative solutions and create meaningful experiences through software. My interests lie in sovling mistery, and I'm always excited to learn and explore new technologies.
 
