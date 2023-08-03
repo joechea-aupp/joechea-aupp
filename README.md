@@ -1,3 +1,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=joechea-aupp&theme=onedark&title=Commit,PullRequest)](https://github.com/joechea-aupp/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joechea-aupp&hide_progress=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joechea-aupp)](https://git.io/streak-stats)
