@@ -8,6 +8,6 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joechea-aupp&hide=stars,issues&show_icons=true&theme=onedark)](https://github.com/joechea-aupp/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joechea-aupp&hide=stars,issues&show_icons=true&theme=onedark&rank_icon=github)](https://github.com/joechea-aupp/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joechea-aupp&langs_count=8&layout=compact)
