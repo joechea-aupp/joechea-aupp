@@ -36,9 +36,6 @@
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=joechea-aupp&theme=blue-green&hide_border=true&exclude_days=Sun%2CSat" width="80%" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joechea-aupp&hide=stars,issues&show_icons=true&theme=blue-green&rank_icon=github&hide_border=true" />
-
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/singhtararaksmey-chea-93264a63/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="singhtararaksmey" /></a>
