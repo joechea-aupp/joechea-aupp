@@ -15,6 +15,7 @@
 ## 🛠 &nbsp;Tech Stack and State
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Golang](https://img.shields.io/badge/-go-05122A?style=flat&logo=go)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel)&nbsp;
